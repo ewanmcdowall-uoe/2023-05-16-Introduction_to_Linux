@@ -20,19 +20,13 @@
 # lines further down this file and add the URL to the relevant lesson site.
 carpentry: "swc"
 
-title: "Introduction to Linxu"
+title: "Introduction to Linux"
 
 # If the workshop will be a lesson pilot (for a new official lesson or
 # a lesson in The Carpentries Incubator), set pilot to "true"
 pilot: false
 
-# Overall title for the Workshop.
-# This variable is used to (optionally) add a title in the "jumbotron"
-# (the grey box at the top of the page), and to the extra pages.
-# Most workshops don't use extra pages. More information about extra
-# pages are included in the README:
-# https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
@@ -57,7 +51,7 @@ title: "Workshop Title"
 # template. Please do not modify this. If you are teaching 
 # a custom set of lessons or a single lesson, use a custom 
 # schedule.
-kind: "workshop"
+kind: "lesson"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
